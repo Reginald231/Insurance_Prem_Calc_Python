@@ -1,2 +1,2 @@
 # Insurance_Prem_Calc_Python
-A project I created via request by a friend to retrieve annual insurance premiums from a specific website using the Selenium web driver, followed by placing the retrieved data in a csv file. It also represents my first attempt/exploration at threading.
+A project I created via request by a friend to retrieve annual earthquake insurance premiums for a list of zip codes via a specific California website (https://calc.earthquakeauthority.com/app/) using the Selenium web driver, followed by placing the retrieved data in a csv file. It also represents my first attempt/exploration at threading and is very slow and resource intensive. I have a lot to learn.
