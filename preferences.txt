@@ -1,0 +1,6 @@
+Year_Built=1995
+Insured_Value=1000000
+Policy_Start_Date=9/1/2020
+State=CA
+Path={Insert web driver path here}
+Preferred_Spreadsheet_Name=Testing
